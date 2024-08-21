@@ -1,0 +1,166 @@
+Creating virtual environment at build/python
+Using virtual environment for: /Users/dawn/synergy-core/scripts/install_deps.py
+Updating pip...
+Running: /Users/dawn/synergy-core/build/python/bin/python -m pip install --upgrade pip
+Requirement already satisfied: pip in ./build/python/lib/python3.12/site-packages (24.2)
+Installing required modules...
+Running: /Users/dawn/synergy-core/build/python/bin/python -m pip install -e scripts
+Obtaining file:///Users/dawn/synergy-core/scripts
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Getting requirements to build editable: started
+  Getting requirements to build editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Collecting cmake-format (from scripts==0.0.1)
+  Using cached cmake_format-0.6.13-py3-none-any.whl.metadata (23 kB)
+Collecting clang-format (from scripts==0.0.1)
+  Using cached clang_format-18.1.8-py2.py3-none-macosx_11_0_arm64.whl.metadata (4.7 kB)
+Collecting python-dotenv (from scripts==0.0.1)
+  Using cached python_dotenv-1.0.1-py3-none-any.whl.metadata (23 kB)
+Collecting pyyaml (from scripts==0.0.1)
+  Using cached PyYAML-6.0.2-cp312-cp312-macosx_11_0_arm64.whl.metadata (2.1 kB)
+Collecting colorama (from scripts==0.0.1)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting dmgbuild (from scripts==0.0.1)
+  Using cached dmgbuild-1.6.2-py3-none-any.whl.metadata (3.7 kB)
+Collecting aqtinstall (from scripts==0.0.1)
+  Using cached aqtinstall-3.1.18-py3-none-any.whl.metadata (11 kB)
+Collecting bs4 (from aqtinstall->scripts==0.0.1)
+  Using cached bs4-0.0.2-py2.py3-none-any.whl.metadata (411 bytes)
+Collecting defusedxml (from aqtinstall->scripts==0.0.1)
+  Using cached defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting humanize (from aqtinstall->scripts==0.0.1)
+  Using cached humanize-4.10.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting patch>=1.16 (from aqtinstall->scripts==0.0.1)
+  Using cached patch-1.16-py3-none-any.whl
+Collecting py7zr>=0.20.6 (from aqtinstall->scripts==0.0.1)
+  Using cached py7zr-0.22.0-py3-none-any.whl.metadata (16 kB)
+Collecting requests>=2.31.0 (from aqtinstall->scripts==0.0.1)
+  Using cached requests-2.32.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting semantic-version (from aqtinstall->scripts==0.0.1)
+  Using cached semantic_version-2.10.0-py2.py3-none-any.whl.metadata (9.7 kB)
+Collecting texttable (from aqtinstall->scripts==0.0.1)
+  Using cached texttable-1.7.0-py2.py3-none-any.whl.metadata (9.8 kB)
+Collecting cmakelang>=0.6.13 (from cmake-format->scripts==0.0.1)
+  Using cached cmakelang-0.6.13-py3-none-any.whl.metadata (23 kB)
+Collecting ds-store>=1.1.0 (from dmgbuild->scripts==0.0.1)
+  Using cached ds_store-1.3.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting mac-alias>=2.0.1 (from dmgbuild->scripts==0.0.1)
+  Using cached mac_alias-2.2.2-py3-none-any.whl.metadata (3.1 kB)
+Collecting six>=1.13.0 (from cmakelang>=0.6.13->cmake-format->scripts==0.0.1)
+  Using cached six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting pycryptodomex>=3.16.0 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached pycryptodomex-3.20.0-cp35-abi3-macosx_10_9_universal2.whl.metadata (3.4 kB)
+Collecting pyzstd>=0.15.9 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached pyzstd-0.16.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (2.4 kB)
+Collecting pyppmd<1.2.0,>=1.1.0 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached pyppmd-1.1.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (5.7 kB)
+Collecting pybcj<1.1.0,>=1.0.0 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached pybcj-1.0.2-cp312-cp312-macosx_11_0_arm64.whl.metadata (4.0 kB)
+Collecting multivolumefile>=0.2.3 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached multivolumefile-0.2.3-py3-none-any.whl.metadata (6.3 kB)
+Collecting inflate64<1.1.0,>=1.0.0 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached inflate64-1.0.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (4.0 kB)
+Collecting brotli>=1.1.0 (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached Brotli-1.1.0-cp312-cp312-macosx_10_9_universal2.whl.metadata (5.5 kB)
+Collecting psutil (from py7zr>=0.20.6->aqtinstall->scripts==0.0.1)
+  Using cached psutil-6.0.0-cp38-abi3-macosx_11_0_arm64.whl.metadata (21 kB)
+Collecting charset-normalizer<4,>=2 (from requests>=2.31.0->aqtinstall->scripts==0.0.1)
+  Using cached charset_normalizer-3.3.2-cp312-cp312-macosx_11_0_arm64.whl.metadata (33 kB)
+Collecting idna<4,>=2.5 (from requests>=2.31.0->aqtinstall->scripts==0.0.1)
+  Using cached idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting urllib3<3,>=1.21.1 (from requests>=2.31.0->aqtinstall->scripts==0.0.1)
+  Using cached urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+Collecting certifi>=2017.4.17 (from requests>=2.31.0->aqtinstall->scripts==0.0.1)
+  Using cached certifi-2024.7.4-py3-none-any.whl.metadata (2.2 kB)
+Collecting beautifulsoup4 (from bs4->aqtinstall->scripts==0.0.1)
+  Using cached beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4->bs4->aqtinstall->scripts==0.0.1)
+  Using cached soupsieve-2.6-py3-none-any.whl.metadata (4.6 kB)
+Using cached aqtinstall-3.1.18-py3-none-any.whl (61 kB)
+Using cached clang_format-18.1.8-py2.py3-none-macosx_11_0_arm64.whl (1.3 MB)
+Using cached cmake_format-0.6.13-py3-none-any.whl (19 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Using cached dmgbuild-1.6.2-py3-none-any.whl (34 kB)
+Using cached python_dotenv-1.0.1-py3-none-any.whl (19 kB)
+Using cached PyYAML-6.0.2-cp312-cp312-macosx_11_0_arm64.whl (173 kB)
+Using cached cmakelang-0.6.13-py3-none-any.whl (159 kB)
+Using cached ds_store-1.3.1-py3-none-any.whl (16 kB)
+Using cached mac_alias-2.2.2-py3-none-any.whl (21 kB)
+Using cached py7zr-0.22.0-py3-none-any.whl (67 kB)
+Using cached requests-2.32.3-py3-none-any.whl (64 kB)
+Using cached bs4-0.0.2-py2.py3-none-any.whl (1.2 kB)
+Using cached defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Using cached humanize-4.10.0-py3-none-any.whl (126 kB)
+Using cached semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Using cached texttable-1.7.0-py2.py3-none-any.whl (10 kB)
+Using cached Brotli-1.1.0-cp312-cp312-macosx_10_9_universal2.whl (873 kB)
+Using cached certifi-2024.7.4-py3-none-any.whl (162 kB)
+Using cached charset_normalizer-3.3.2-cp312-cp312-macosx_11_0_arm64.whl (119 kB)
+Using cached idna-3.7-py3-none-any.whl (66 kB)
+Using cached inflate64-1.0.0-cp312-cp312-macosx_11_0_arm64.whl (35 kB)
+Using cached multivolumefile-0.2.3-py3-none-any.whl (17 kB)
+Using cached pybcj-1.0.2-cp312-cp312-macosx_11_0_arm64.whl (24 kB)
+Using cached pycryptodomex-3.20.0-cp35-abi3-macosx_10_9_universal2.whl (2.4 MB)
+Using cached pyppmd-1.1.0-cp312-cp312-macosx_11_0_arm64.whl (46 kB)
+Using cached pyzstd-0.16.1-cp312-cp312-macosx_11_0_arm64.whl (295 kB)
+Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Using cached urllib3-2.2.2-py3-none-any.whl (121 kB)
+Using cached beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+Using cached psutil-6.0.0-cp38-abi3-macosx_11_0_arm64.whl (251 kB)
+Using cached soupsieve-2.6-py3-none-any.whl (36 kB)
+Building wheels for collected packages: scripts
+  Building editable for scripts (pyproject.toml): started
+  Building editable for scripts (pyproject.toml): finished with status 'done'
+  Created wheel for scripts: filename=scripts-0.0.1-0.editable-py3-none-any.whl size=2761 sha256=34d05ae661136bd121b5930ae9d84c681c6ae058bbf4cf7baab28e34db292861
+  Stored in directory: /private/tmp/pip-ephem-wheel-cache-05yfxfdr/wheels/bf/24/24/0c2b03076e25735f939c0df103ed080ebd981d80b0988b9924
+Successfully built scripts
+Installing collected packages: texttable, patch, clang-format, brotli, urllib3, soupsieve, six, semantic-version, pyzstd, pyyaml, python-dotenv, pyppmd, pycryptodomex, pybcj, psutil, multivolumefile, mac-alias, inflate64, idna, humanize, defusedxml, colorama, charset-normalizer, certifi, requests, py7zr, ds-store, cmakelang, beautifulsoup4, dmgbuild, cmake-format, bs4, aqtinstall, scripts
+Successfully installed aqtinstall-3.1.18 beautifulsoup4-4.12.3 brotli-1.1.0 bs4-0.0.2 certifi-2024.7.4 charset-normalizer-3.3.2 clang-format-18.1.8 cmake-format-0.6.13 cmakelang-0.6.13 colorama-0.4.6 defusedxml-0.7.1 dmgbuild-1.6.2 ds-store-1.3.1 humanize-4.10.0 idna-3.7 inflate64-1.0.0 mac-alias-2.2.2 multivolumefile-0.2.3 patch-1.16 psutil-6.0.0 py7zr-0.22.0 pybcj-1.0.2 pycryptodomex-3.20.0 pyppmd-1.1.0 python-dotenv-1.0.1 pyyaml-6.0.2 pyzstd-0.16.1 requests-2.32.3 scripts-0.0.1 semantic-version-2.10.0 six-1.16.0 soupsieve-2.6 texttable-1.7.0 urllib3-2.2.2
+Config for OS: mac
+['build/python/bin/python', '-m', 'aqt', 'install-qt', '--outputdir', './deps/qt', '--base', 'https://qt.mirror.constant.com/', 'mac', 'desktop', '6.7', 'clang_64']
+Running: build/python/bin/python -m aqt install-qt --outputdir ./deps/qt --base https://qt.mirror.constant.com/ mac desktop 6.7 clang_64
+INFO    : aqtinstall(aqt) v3.1.18 on Python 3.12.5 [CPython Clang 15.0.0 (clang-1500.3.9.4)]
+INFO    : Resolved spec '6.7' to 6.7.2
+WARNING : Specified Qt version "6.7.2" did not exist when this version of aqtinstall was released. This may not install properly, but we will try our best.
+INFO    : Downloading qtbase...
+INFO    : Downloading qtsvg...
+INFO    : Downloading qttools...
+INFO    : Downloading qtdeclarative...
+INFO    : Finished installation of qtsvg-MacOS-MacOS_13-Clang-MacOS-MacOS_13-X86_64-ARM64.7z in 1.63853863
+INFO    : Downloading qttranslations...
+INFO    : Finished installation of qttranslations-MacOS-MacOS_13-Clang-MacOS-MacOS_13-X86_64-ARM64.7z in 1.66133029
+INFO    : Finished installation of qttools-MacOS-MacOS_13-Clang-MacOS-MacOS_13-X86_64-ARM64.7z in 19.03924050
+INFO    : Finished installation of qtbase-MacOS-MacOS_13-Clang-MacOS-MacOS_13-X86_64-ARM64.7z in 22.70040921
+INFO    : Finished installation of qtdeclarative-MacOS-MacOS_13-Clang-MacOS-MacOS_13-X86_64-ARM64.7z in 36.03507438
+INFO    : Patching deps/qt/6.7.2/macos/bin/qmake
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlLS.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6FbSupport.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlDebug.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlTypeRegistrar.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QuickTestUtils.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6ExampleIcons.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QuickControlsTestUtils.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6DeviceDiscoverySupport.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlDom.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlBuiltins.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6PacketProtocol.prl
+INFO    : Patching deps/qt/6.7.2/macos/lib/libQt6QmlToolingSettings.prl
+INFO    : Finished installation
+INFO    : Time elapsed: 37.51988767 second
+Running: brew bundle --file=Brewfile
+==> Auto-updating Homebrew...
+Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
+HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Auto-updated Homebrew!
+==> Updated Homebrew from 93234387fb to f827410798.
+Updated 1 tap (homebrew/bundle).
+No changes to formulae or casks.
+
+Using make
+Using cmake
+Using openssl
+Homebrew Bundle complete! 3 Brewfile dependencies now installed.

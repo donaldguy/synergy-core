@@ -1,0 +1,698 @@
+Apple Pay:
+
+      Apple Pay Information:  
+        Platform ID: N5B2M004C7ED0000
+        SEID: 040837AB5A6180020296085100307371CCCF93465449F979
+        Device: 0xd2
+        Production Signed: Yes
+        Restricted Mode: No
+        Hardware: 0x00000007
+        Firmware: 0x0700
+        JCOP OS: 20.03
+
+      Controller Information:  
+        Hardware: b2.2 ()
+        Firmware: 1.a9 rev 151266
+        Middleware: 5.1.3.a
+
+Audio:
+
+    Devices:
+
+        LG HDR DQHD:
+
+          Manufacturer: GSM
+          Output Channels: 2
+          Current SampleRate: 44100
+          Transport: DisplayPort
+          Output Source: Default
+
+        SD4780P Audio:
+
+          Manufacturer: DisplayLink
+          Current SampleRate: 48000
+          Transport: USB
+
+        SD4780P Audio:
+
+          Manufacturer: DisplayLink
+          Current SampleRate: 48000
+          Transport: USB
+
+        Traktor Kontrol S4 MK3:
+
+          Default Output Device: Yes
+          Default System Output Device: Yes
+          Input Channels: 8
+          Manufacturer: Native Instruments
+          Output Channels: 4
+          Current SampleRate: 48000
+          Transport: USB
+          Input Source: Default
+          Output Source: Default
+
+        Opal C1 Audio Mic:
+
+          Default Input Device: Yes
+          Input Channels: 2
+          Manufacturer: Opal
+          Current SampleRate: 48000
+          Transport: USB
+          Input Source: Default
+
+        MacBook Air Microphone:
+
+          Input Channels: 1
+          Manufacturer: Apple Inc.
+          Current SampleRate: 48000
+          Transport: Built-in
+          Input Source: MacBook Air Microphone
+
+        MacBook Air Speakers:
+
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Built-in
+          Output Source: MacBook Air Speakers
+
+        Adam VIII Microphone:
+
+          Input Channels: 1
+          Manufacturer: Apple Inc.
+          Current SampleRate: 48000
+          Transport: Unknown
+          Input Source: Default
+
+Bluetooth:
+
+      Bluetooth Controller:
+          State: On
+          Chipset: BCM_4378
+          Discoverable: Off
+          Firmware Version: 22.1.536.3887
+          Product ID: 0x4A02
+          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >
+          Transport: PCIe
+          Vendor ID: 0x004C (Apple)
+      Connected:
+          Donald Guy’s Trackpad:
+              Firmware Version: 3.1.1
+              Minor Type: Magic Trackpad
+              Services: 0x800020 < HID ACL >
+      Not Connected:
+          Adam VIII:
+              RSSI: -64
+          Bathroom:
+              RSSI: -70
+          Bedroom:
+          Donald’s AirPods Pro:
+              Case Version: 70.72.0
+              Firmware Version: 7A244b
+              Minor Type: Headphones
+              Serial Number: HFMVYLQ1W0
+              Serial Number (Left): GN1JGB1X18JQ
+              Serial Number (Right): GX8JGETX18JP
+          Donald’s Apple Watch:
+              RSSI: -67
+          Eve III:
+              RSSI: -49
+          Fury Signifying Nothing:
+              Firmware Version: 6A326
+              Minor Type: Headphones
+              Serial Number: H0YDV7SCP3W9
+          Kitchen:
+              RSSI: -73
+          THELETOS:
+              Firmware Version: 10.0.0
+              Minor Type: Desktop Computer
+          Vissles LP85:
+              Firmware Version: 1.1.11
+              Minor Type: Keyboard
+          WH-1000XM5:
+              Firmware Version: 2.1.0
+              Minor Type: Headset
+
+Camera:
+
+    Opal C1:
+
+      Model ID: UVC Camera VendorID_999 ProductID_63037
+      Unique ID: 0x121000003e7f63d
+
+    Opal Composer:
+
+      Model ID: Opal Composer
+      Unique ID: DBEC4922-68D4-4515-AA0B-55FCAA300542
+
+    FaceTime HD Camera:
+
+      Model ID: FaceTime HD Camera
+      Unique ID: EAB7A68F-EC2B-4487-AADF-D8A91C1CB782
+
+    Adam VIII Camera:
+
+      Model ID: iPhone16,2
+      Unique ID: E119DB3F-E0AB-41B1-B14A-822300000001
+
+Controller:
+
+      Model Identifier: MacBookAir10,1
+      Firmware Version: iBoot-11881.1.1
+      Boot UUID: 07D7A7F7-F0A5-4143-9B76-A3CADEDA97BC
+      Boot Policy:  
+        Secure Boot: Permissive Security
+        System Integrity Protection: Disabled
+        Signed System Volume: Enabled
+        Kernel CTRR: Disabled
+        Boot Arguments Filtering: Disabled
+        Allow All Kernel Extensions: No
+        User Approved Privileged MDM Operations: No
+        DEP Approved Privileged MDM Operations: No
+
+Disc Burning:
+
+    Virtual CD-ROM DEVICE:
+
+      Firmware Revision: 0
+      Interconnect: USB
+      Burn Support: Yes (Generic Drive Support)
+      Profile Path: None
+      Cache: 0 KB
+      Reads DVD: No
+      CD-Write: 
+      Write Strategies: 
+      Media: To show the available burn speeds, insert a disc and choose File > Refresh Information
+
+Ethernet:
+
+    Kensington SD4780P:
+
+      Bus: USB
+      Vendor Name: DisplayLink
+      Product Name: Kensington SD4780P
+      Vendor ID: 0x17e9
+      Product ID: 0x6029
+      USB Link Speed: Up to 5 Gb/s
+      Driver: com.apple.driver.usb.cdc.ncm
+      BSD Device Name: en5
+      MAC Address: 34:99:71:dc:0b:7d
+      AVB Support: No
+      Maximum Link Speed: 2.5 Gb/s
+
+Graphics/Displays:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 8
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+      Displays:
+        LG HDR DQHD:
+          Resolution: 6144 x 1728
+          UI Looks like: 3072 x 864 @ 60.00Hz
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Rotation: Supported
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir10,1
+      Model Number: MGQN3LL/A
+      Chip: Apple M1
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 16 GB
+      System Firmware Version: 11881.1.1
+      OS Loader Version: 11881.1.1
+
+Memory:
+
+      Memory: 16 GB
+      Type: LPDDR4
+      Manufacturer: Hynix
+
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP1024Q:
+
+          Capacity: 1 TB (1,000,555,581,440 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP1024Q
+          Revision: 499.0.9
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          S.M.A.R.T. status: Verified
+
+Network:
+
+    USB Controls:
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: usbmodemABC1234567892
+      Service Order: 0
+
+    Model 100:
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: usbmodem6564AE9213391
+      Service Order: 1
+
+    Loupedeck Live 2:
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: usbmodem1124301
+      Service Order: 2
+
+    Loupedeck Live:
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: usbmodem1124401
+      Service Order: 3
+
+    Thunderbolt Bridge:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: bridge0
+      Service Order: 4
+
+    Kensington SD4780P:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en5
+      Service Order: 5
+
+    USB 10/100/1000 LAN:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en6
+      Service Order: 6
+
+    Wi-Fi:
+
+      Type: AirPort
+      Hardware: AirPort
+      BSD Device Name: en0
+      Service Order: 7
+
+Printer Software:
+
+    PPDs:
+
+      PPDs: 
+
+    Printers:
+
+      Printers: 
+
+    Image Capture Devices:
+
+      Image Capture Devices: 
+
+    Image Capture Support:
+
+      Image Capture Support:
+          Path: /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app/Contents/Info.plist
+          Version: 607
+
+Printers:
+
+      Status: The printers list is empty. To add printers, choose Apple menu > System Settings…, click Printers & Scanners, and then click Add Printer, Scanner, or Fax…
+      CUPS Version: CUPS/2.3.4 (macOS 15.0; arm64) IPP/2.0
+
+SPI:
+
+    Apple Internal Keyboard / Trackpad:
+
+      Product ID: 0x0281
+      Vendor ID: 0x05ac (Apple Inc.)
+      ST Version: 9.35
+      MT Version: 5.30
+      Serial Number: FM7048501NLN4FTAX+YBM
+      Manufacturer: Apple Inc.
+      Location ID: 0x00000029
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 15.0 (24A5320a)
+      Kernel Version: Darwin 24.0.0
+      Time since boot: 3 days, 4 hours, 40 minutes
+
+Thunderbolt/USB4:
+
+    Thunderbolt/USB4 Bus 1:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05ACFAA028AEB181
+      Route String: 0
+      Domain UUID: 7373429E-D511-4195-A383-144A2EBBD619
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s
+          Receptacle: 2
+
+    Thunderbolt/USB4 Bus 0:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05ACFAA028AEB180
+      Route String: 0
+      Domain UUID: D8B2CC38-501B-45CD-80BA-5E58CA32069B
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s
+          Receptacle: 1
+
+USB:
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8103USBXHCI
+
+        SD4780P HUB1-U3.1:
+
+          Product ID: 0x8081
+          Vendor ID: 0x047d  (Kensington)
+          Version: 10.00
+          Speed: Up to 10 Gb/s
+          Manufacturer: Generic
+          Location ID: 0x01200000 / 2
+          Current Available (mA): 900
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+
+            Opal C1:
+
+              Product ID: 0xf63d
+              Vendor ID: 0x03e7
+              Version: 4.10
+              Serial Number: 184430101164561700
+              Speed: Up to 5 Gb/s
+              Manufacturer: Opal
+              Location ID: 0x01210000 / 3
+              Current Available (mA): 900
+              Current Required (mA): 896
+              Extra Operating Current (mA): 0
+
+            Kensington SD4780P:
+
+              Product ID: 0x6029
+              Vendor ID: 0x17e9  (DisplayLink (UK) Ltd.)
+              Version: 31.05
+              Serial Number: B2043A000301
+              Speed: Up to 5 Gb/s
+              Manufacturer: DisplayLink
+              Location ID: 0x01240000 / 11
+              Current Available (mA): 900
+              Current Required (mA): 8
+              Extra Operating Current (mA): 0
+
+            SD4780P HUB2-U3.1:
+
+              Product ID: 0x8083
+              Vendor ID: 0x047d  (Kensington)
+              Version: 10.00
+              Speed: Up to 5 Gb/s
+              Manufacturer: Generic
+              Location ID: 0x01220000 / 4
+              Current Available (mA): 900
+              Current Required (mA): 0
+              Extra Operating Current (mA): 0
+
+                USB3.2 Hub:
+
+                  Product ID: 0x2415
+                  Vendor ID: 0x0557  (ATEN International Co. Ltd.)
+                  Version: 68.90
+                  Speed: Up to 5 Gb/s
+                  Manufacturer: ATEN INTERNATIONAL Co
+                  Location ID: 0x01224000 / 12
+                  Current Available (mA): 900
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                    USB Storage:
+
+                      Product ID: 0x0627
+                      Vendor ID: 0x05e3  (Genesys Logic, Inc.)
+                      Version: 68.93
+                      Serial Number: USB Storage
+                      Speed: Up to 5 Gb/s
+                      Manufacturer: 590A01
+                      Location ID: 0x01224200 / 15
+                      Current Available (mA): 900
+                      Current Required (mA): 8
+                      Extra Operating Current (mA): 0
+
+                SD4780P HUB3-U3.1:
+
+                  Product ID: 0x8085
+                  Vendor ID: 0x047d  (Kensington)
+                  Version: 10.00
+                  Speed: Up to 5 Gb/s
+                  Manufacturer: Generic
+                  Location ID: 0x01222000 / 9
+                  Current Available (mA): 900
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+        SD4780P HUB1-U2.0:
+
+          Product ID: 0x8080
+          Vendor ID: 0x047d  (Kensington)
+          Version: 10.00
+          Speed: Up to 480 Mb/s
+          Manufacturer: Generic
+          Location ID: 0x01100000 / 1
+          Current Available (mA): 500
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+
+            BillBoard Device:
+
+              Product ID: 0x5450
+              Vendor ID: 0x0bda  (Realtek Semiconductor Corp.)
+              Version: 1.01
+              Serial Number: 123456789ABCDEFGH
+              Speed: Up to 480 Mb/s
+              Manufacturer: Realtek
+              Location ID: 0x01150000 / 6
+              Current Available (mA): 500
+              Current Required (mA): 0
+              Extra Operating Current (mA): 0
+
+            SD4780P HUB2-U2.0:
+
+              Product ID: 0x8082
+              Vendor ID: 0x047d  (Kensington)
+              Version: 10.00
+              Speed: Up to 480 Mb/s
+              Manufacturer: Generic
+              Location ID: 0x01120000 / 5
+              Current Available (mA): 500
+              Current Required (mA): 0
+              Extra Operating Current (mA): 0
+
+                USB2.1 Hub:
+
+                  Product ID: 0x2414
+                  Vendor ID: 0x0557  (ATEN International Co. Ltd.)
+                  Version: 68.90
+                  Speed: Up to 480 Mb/s
+                  Manufacturer: ATEN INTERNATIONAL Co
+                  Location ID: 0x01124000 / 13
+                  Current Available (mA): 500
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                    Model 100:
+
+                      Product ID: 0x0006
+                      Vendor ID: 0x3496
+                      Version: 1.00
+                      Serial Number: 6564AE921339
+                      Speed: Up to 12 Mb/s
+                      Manufacturer: Keyboardio
+                      Location ID: 0x01124500 / 14
+                      Current Available (mA): 500
+                      Current Required (mA): 500
+                      Extra Operating Current (mA): 0
+
+                    Loupedeck Live:
+
+                      Product ID: 0x0004
+                      Vendor ID: 0x2ec2
+                      Version: 1.00
+                      Serial Number: LDD2001014021230700653B0006
+                      Speed: Up to 480 Mb/s
+                      Manufacturer: Loupedeck
+                      Location ID: 0x01124300 / 16
+                      Current Available (mA): 500
+                      Current Required (mA): 100
+                      Extra Operating Current (mA): 0
+
+                    Razer Mouse Dock Pro:
+
+                      Product ID: 0x00a4
+                      Vendor ID: 0x1532
+                      Version: 1.01
+                      Speed: Up to 480 Mb/s
+                      Manufacturer: Razer
+                      Location ID: 0x01124100 / 17
+                      Current Available (mA): 500
+                      Current Required (mA): 500
+                      Extra Operating Current (mA): 0
+
+                Traktor Kontrol S4 MK3 Hub:
+
+                  Product ID: 0x1723
+                  Vendor ID: 0x17cc
+                  Version: 0.01
+                  Serial Number: 3827344C
+                  Speed: Up to 480 Mb/s
+                  Manufacturer: Native Instruments
+                  Location ID: 0x01123000 / 7
+                  Current Available (mA): 500
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                    Traktor Kontrol S4 MK3:
+
+                      Product ID: 0x1720
+                      Vendor ID: 0x17cc
+                      Version: 0.61
+                      Serial Number: 3827344C
+                      Speed: Up to 480 Mb/s
+                      Manufacturer: Native Instruments
+                      Location ID: 0x01123100 / 8
+                      Current Available (mA): 500
+                      Current Required (mA): 0
+                      Extra Operating Current (mA): 0
+
+                SD4780P HUB3-U2.0:
+
+                  Product ID: 0x8084
+                  Vendor ID: 0x047d  (Kensington)
+                  Version: 10.00
+                  Speed: Up to 480 Mb/s
+                  Manufacturer: Generic
+                  Location ID: 0x01122000 / 10
+                  Current Available (mA): 500
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8103USBXHCI
+
+        Hub:
+
+          Product ID: 0x8142
+          Vendor ID: 0x0451  (Texas Instruments)
+          Version: 1.00
+          Serial Number: A4030859B217
+          Speed: Up to 480 Mb/s
+          Location ID: 0x00100000 / 1
+          Current Available (mA): 500
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+
+            Hub:
+
+              Product ID: 0x8142
+              Vendor ID: 0x0451  (Texas Instruments)
+              Version: 1.00
+              Serial Number: 94030869B217
+              Speed: Up to 480 Mb/s
+              Location ID: 0x00140000 / 2
+              Current Available (mA): 500
+              Current Required (mA): 0
+              Extra Operating Current (mA): 0
+
+                USB Controls:
+
+                  Product ID: 0x9a39
+                  Vendor ID: 0x043e  (LG Electronics USA Inc.)
+                  Version: 2.19
+                  Serial Number: ABC123456789
+                  Speed: Up to 12 Mb/s
+                  Manufacturer: LG Electronics Inc.
+                  Location ID: 0x00143000 / 3
+                  Current Available (mA): 500
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                Planck EZ Glow:
+
+                  Product ID: 0xc6cf
+                  Vendor ID: 0x3297
+                  Version: 0.01
+                  Speed: Up to 12 Mb/s
+                  Manufacturer: ZSA Technology Labs
+                  Location ID: 0x00142000 / 5
+                  Current Available (mA): 500
+                  Current Required (mA): 500
+                  Extra Operating Current (mA): 0
+
+                USB Receiver:
+
+                  Product ID: 0xc52b
+                  Vendor ID: 0x046d  (Logitech Inc.)
+                  Version: 24.11
+                  Speed: Up to 12 Mb/s
+                  Manufacturer: Logitech
+                  Location ID: 0x00141000 / 4
+                  Current Available (mA): 500
+                  Current Required (mA): 98
+                  Extra Operating Current (mA): 0
+
+Wi-Fi:
+
+      Software Versions:
+          CoreWLAN: 16.0 (1657)
+          CoreWLANKit: 16.0 (1657)
+          Menu Extra: 17.0 (1728)
+          System Information: 15.0 (1502)
+          IO80211 Family: 12.0 (1200.13.1)
+          Diagnostics: 11.0 (1163)
+          AirPort Utility: 6.3.9 (639.26)
+      Interfaces:
+        en0:
+          Card Type: Wi-Fi  (0x14E4, 0x4378)
+          Firmware Version: wl0: Jul 26 2024 20:49:57 version 18.20.458.0.7.8.173 FWID 01-544d6458
+IO80211_driverkit-1302.71 "IO80211_driverkit-1302.71" Aug  7 2024 03:14:49
+          MAC Address: ea:ee:af:d8:87:13
+          Locale: FCC
+          Country Code: US
+          Supported PHY Modes: 802.11 a/b/g/n/ac/ax
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+          Wake On Wireless: Supported
+          AirDrop: Supported
+          Auto Unlock: Supported
+          Status: Connected
+        awdl0:
+          MAC Address: 2a:14:99:dd:f4:42
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+
