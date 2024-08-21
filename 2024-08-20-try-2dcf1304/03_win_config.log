@@ -1,0 +1,50 @@
+Preset CMake variables:
+
+  CMAKE_BUILD_TYPE="Release"
+  CMAKE_CXX_COMPILER="cl.exe"
+  CMAKE_C_COMPILER="cl.exe"
+  CMAKE_EXPORT_COMPILE_COMMANDS="ON"
+
+Preset environment variables:
+
+  SYNERGY_STATIC_OPENSSL="ON"
+
+-- The C compiler identification is MSVC 19.41.34120.0
+-- The CXX compiler identification is MSVC 19.41.34120.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Enabling warnings as errors (MSVC)
+-- Version number (semver): 1.15.0
+-- Version number for (Microsoft 4-part): 1.15.0.0
+-- Version number for (Microsoft CSV): 1,15,0,0
+-- Product name: Synergy 1 Community Edition
+-- Enabling dev thanks message
+-- Disabling debug build
+-- Found OpenSSL binaries at: C:\Program Files\OpenSSL-Win64\bin\openssl.exe
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - not found
+-- Found Threads: TRUE
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Qt version: 6.7.2
+-- Found OpenSSL: optimized;C:/Program Files/OpenSSL-Win64/lib/VC/x64/MD/libcrypto_static.lib;debug;C:/Program Files/OpenSSL-Win64/lib/VC/x64/MDd/libcrypto_static.lib (found version "3.3.1")
+-- Submodule update
+-- Code coverage is disabled
+-- Configuring Windows installer
+-- Configuring done (8.3s)
+-- Generating done (0.6s)
+-- Build files have been written to: C:/Users/donald/synergy-core/build

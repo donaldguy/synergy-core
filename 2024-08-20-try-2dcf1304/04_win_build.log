@@ -1,0 +1,401 @@
+[1/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchConsoleWindows.cpp.obj
+[2/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\ArchDaemonNone.cpp.obj
+[3/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchLogWindows.cpp.obj
+[4/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\IArchString.cpp.obj
+[5/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\Arch.cpp.obj
+[6/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchFileWindows.cpp.obj
+[7/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchMiscWindows.cpp.obj
+[8/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\ArchConsoleStd.cpp.obj
+[9/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchMultithreadWindows.cpp.obj
+[10/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchDaemonWindows.cpp.obj
+[11/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchTimeWindows.cpp.obj
+[12/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchSleepWindows.cpp.obj
+[13/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchStringWindows.cpp.obj
+[14/306] Building CXX object src\lib\base\CMakeFiles\base.dir\FunctionEventJob.cpp.obj
+[15/306] Building CXX object src\lib\base\CMakeFiles\base.dir\FunctionJob.cpp.obj
+[16/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchSystemWindows.cpp.obj
+[17/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchNetworkWinsock.cpp.obj
+[18/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\XArchWindows.cpp.obj
+[19/306] Building CXX object src\lib\base\CMakeFiles\base.dir\EventTypes.cpp.obj
+[20/306] Building CXX object src\lib\base\CMakeFiles\base.dir\Event.cpp.obj
+[21/306] Building CXX object src\lib\arch\CMakeFiles\arch.dir\win32\ArchTaskBarWindows.cpp.obj
+[22/306] Building CXX object src\lib\base\CMakeFiles\base.dir\Path.cpp.obj
+[23/306] Building CXX object src\lib\base\CMakeFiles\base.dir\SimpleEventQueueBuffer.cpp.obj
+[24/306] Building CXX object src\lib\base\CMakeFiles\base.dir\XBase.cpp.obj
+[25/306] Building CXX object src\lib\base\CMakeFiles\base.dir\Stopwatch.cpp.obj
+[26/306] Building CXX object src\lib\base\CMakeFiles\base.dir\EventQueue.cpp.obj
+[27/306] Linking CXX static library src\lib\arch\arch.lib
+[28/306] Building CXX object src\lib\base\CMakeFiles\base.dir\Log.cpp.obj
+[29/306] Building CXX object src\lib\base\CMakeFiles\base.dir\Unicode.cpp.obj
+[30/306] Building CXX object src\lib\license\CMakeFiles\license.dir\SerialKeyType.cpp.obj
+[31/306] Building CXX object src\lib\license\CMakeFiles\license.dir\Product.cpp.obj
+[32/306] Building CXX object src\lib\base\CMakeFiles\base.dir\String.cpp.obj
+[33/306] Building CXX object src\lib\base\CMakeFiles\base.dir\log_outputters.cpp.obj
+[34/306] Building CXX object src\lib\io\CMakeFiles\io.dir\StreamBuffer.cpp.obj
+[35/306] Linking CXX static library src\lib\base\base.lib
+[36/306] Building CXX object src\lib\mt\CMakeFiles\mt.dir\Lock.cpp.obj
+[37/306] Building CXX object src\lib\io\CMakeFiles\io.dir\StreamFilter.cpp.obj
+[38/306] Building CXX object src\lib\io\CMakeFiles\io.dir\XIO.cpp.obj
+[39/306] Building CXX object src\lib\client\CMakeFiles\client.dir\ServerProxy.cpp.obj
+[40/306] Linking CXX static library src\lib\io\io.lib
+[41/306] Building CXX object src\lib\client\CMakeFiles\client.dir\Client.cpp.obj
+[42/306] Building CXX object src\lib\license\CMakeFiles\license.dir\License.cpp.obj
+[43/306] Building CXX object src\lib\mt\CMakeFiles\mt.dir\CondVar.cpp.obj
+[44/306] Building CXX object src\lib\mt\CMakeFiles\mt.dir\XMT.cpp.obj
+[45/306] Linking CXX static library src\lib\client\client.lib
+[46/306] Building CXX object src\lib\mt\CMakeFiles\mt.dir\Mutex.cpp.obj
+[47/306] Building CXX object src\lib\mt\CMakeFiles\mt.dir\Thread.cpp.obj
+[48/306] Building CXX object src\lib\license\CMakeFiles\license.dir\parse_serial_key.cpp.obj
+[49/306] Linking CXX static library src\lib\license\license.lib
+[50/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcClient.cpp.obj
+[51/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcMessage.cpp.obj
+[52/306] Linking CXX static library src\lib\mt\mt.lib
+[53/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcSettingMessage.cpp.obj
+[54/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcClientProxy.cpp.obj
+[55/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcServer.cpp.obj
+[56/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcServerProxy.cpp.obj
+[57/306] Building CXX object src\lib\ipc\CMakeFiles\ipc.dir\IpcLogOutputter.cpp.obj
+[58/306] Building CXX object src\lib\net\CMakeFiles\net.dir\IDataSocket.cpp.obj
+[59/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\AutoArchSocket.cpp.obj
+[60/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\InverseServerSocket.cpp.obj
+[61/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\InverseClientSocket.cpp.obj
+[62/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\InverseSocketFactory.cpp.obj
+[63/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\SecureServerSocket.cpp.obj
+[64/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\SecureClientSocket.cpp.obj
+[65/306] Building CXX object src\lib\net\CMakeFiles\net.dir\SecureListenSocket.cpp.obj
+[66/306] Building CXX object src\lib\net\CMakeFiles\net.dir\NetworkAddress.cpp.obj
+[67/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\SslApi.cpp.obj
+[68/306] Building CXX object src\lib\net\CMakeFiles\net.dir\SocketMultiplexer.cpp.obj
+[69/306] Building CXX object src\lib\net\CMakeFiles\net.dir\InverseSockets\SslLogger.cpp.obj
+[70/306] Automatic MOC and UIC for target gui
+[71/306] Building CXX object src\lib\net\CMakeFiles\net.dir\SecureSocket.cpp.obj
+[72/306] Building CXX object src\lib\net\CMakeFiles\net.dir\XSocket.cpp.obj
+[73/306] Building CXX object src\lib\net\CMakeFiles\net.dir\TCPListenSocket.cpp.obj
+[74/306] Building CXX object src\lib\net\CMakeFiles\net.dir\TCPSocketFactory.cpp.obj
+[75/306] Building CXX object src\lib\net\CMakeFiles\net.dir\TCPSocket.cpp.obj
+[76/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardAnyTextConverter.cpp.obj
+[77/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboard.cpp.obj
+[78/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\TrayIcon.cpp.obj
+[79/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\config\ScreenConfig.cpp.obj
+[80/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\VersionChecker.cpp.obj
+[81/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\config\ConfigScopes.cpp.obj
+[82/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\Logger.cpp.obj
+[83/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\gui_autogen\mocs_compilation.cpp.obj
+[84/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\config\AppConfig.cpp.obj
+[85/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\CommandProcess.cpp.obj
+[86/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\config\ScreenList.cpp.obj
+[87/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\config\Screen.cpp.obj
+[88/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\ClientConnection.cpp.obj
+[89/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\ServerMessage.cpp.obj
+[90/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\ipc\IQIpcClient.cpp.obj
+[91/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\CoreTool.cpp.obj
+[92/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\CoreProcess.cpp.obj
+[93/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\core\ServerConnection.cpp.obj
+[94/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\dotenv.cpp.obj
+[95/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\diagnostic.cpp.obj
+[96/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\ipc\IpcReader.cpp.obj
+[97/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\ipc\QIpcClient.cpp.obj
+[98/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\license\LicenseHandler.cpp.obj
+[99/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\license\license_notices.cpp.obj
+[100/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\license\license_utils.cpp.obj
+[101/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\dialogs\UpgradeDialog.cpp.obj
+[102/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\proxy\QProcessProxy.cpp.obj
+[103/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\messages.cpp.obj
+[104/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\proxy\QSettingsProxy.cpp.obj
+[105/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\tls\TlsCertificate.cpp.obj
+[106/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\tls\TlsFingerprint.cpp.obj
+[107/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\dialogs\SettingsDialog.cpp.obj
+[108/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\EmptyStringValidator.cpp.obj
+[109/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\IStringValidator.cpp.obj
+[110/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\tls\TlsUtility.cpp.obj
+[111/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\AliasValidator.cpp.obj
+[112/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\ComputerNameValidator.cpp.obj
+[113/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\SpacesValidator.cpp.obj
+[114/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardBitmapConverter.cpp.obj
+[115/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardFacade.cpp.obj
+[116/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardHTMLConverter.cpp.obj
+[117/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\ScreenDuplicationsValidator.cpp.obj
+[118/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardTextConverter.cpp.obj
+[119/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\LineEditValidator.cpp.obj
+[120/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\ScreenNameValidator.cpp.obj
+[121/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsClipboardUTF16Converter.cpp.obj
+[122/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsDebugOutputter.cpp.obj
+[123/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\validators\ValidationError.cpp.obj
+[124/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\widgets\ClientStateLabel.cpp.obj
+[125/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsEventQueueBuffer.cpp.obj
+[126/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsDesks.cpp.obj
+[127/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsDropTarget.cpp.obj
+[128/306] Building CXX object src\lib\gui\CMakeFiles\gui.dir\widgets\ServerStateLabel.cpp.obj
+[129/306] Linking CXX static library src\lib\gui\gui.lib
+[130/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsPowerManager.cpp.obj
+[131/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsHook.cpp.obj
+[132/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsKeyState.cpp.obj
+[133/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsSession.cpp.obj
+[134/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsScreenSaver.cpp.obj
+[135/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsUtil.cpp.obj
+[136/306] Building CXX object src\lib\server\CMakeFiles\server.dir\BaseClientProxy.cpp.obj
+[137/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsScreen.cpp.obj
+[138/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_1.cpp.obj
+[139/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_2.cpp.obj
+[140/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_0.cpp.obj
+[141/306] Building CXX object src\lib\platform\CMakeFiles\platform.dir\MSWindowsWatchdog.cpp.obj
+[142/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy.cpp.obj
+[143/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_3.cpp.obj
+[144/306] Automatic MOC and UIC for target synergy
+[145/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_8.cpp.obj
+[146/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientListener.cpp.obj
+[147/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_4.cpp.obj
+[148/306] Building CXX object src\lib\server\CMakeFiles\server.dir\PrimaryClient.cpp.obj
+[149/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_6.cpp.obj
+[150/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_7.cpp.obj
+[151/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxy1_5.cpp.obj
+[152/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ArgsBase.cpp.obj
+[153/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\AppUtil.cpp.obj
+[154/306] Building CXX object src\lib\server\CMakeFiles\server.dir\ClientProxyUnknown.cpp.obj
+[155/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ClientArgs.cpp.obj
+[156/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\Chunk.cpp.obj
+[157/306] Building CXX object src\lib\server\CMakeFiles\server.dir\InputFilter.cpp.obj
+[158/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\App.cpp.obj
+[159/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\Clipboard.cpp.obj
+[160/306] Building CXX object src\lib\server\CMakeFiles\server.dir\Config.cpp.obj
+[161/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ClipboardChunk.cpp.obj
+[162/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ClientTaskBarReceiver.cpp.obj
+[163/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ClientApp.cpp.obj
+[164/306] Building CXX object src\lib\server\CMakeFiles\server.dir\Server.cpp.obj
+[165/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ArgParser.cpp.obj
+[166/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\FileChunk.cpp.obj
+[167/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\IClipboard.cpp.obj
+[168/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\IKeyState.cpp.obj
+[169/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\IPlatformScreen.cpp.obj
+[170/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\DropHelper.cpp.obj
+[171/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\DragInformation.cpp.obj
+[172/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\IPrimaryScreen.cpp.obj
+[173/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\PacketStreamFilter.cpp.obj
+[174/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\Screen.cpp.obj
+[175/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\PlatformScreen.cpp.obj
+[176/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ProtocolUtil.cpp.obj
+[177/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\DaemonApp.cpp.obj
+[178/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\KeyState.cpp.obj
+[179/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\KeyMap.cpp.obj
+[180/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ToolArgs.cpp.obj
+[181/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\key_types.cpp.obj
+[182/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\XScreen.cpp.obj
+[183/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\StreamChunker.cpp.obj
+[184/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\XSynergy.cpp.obj
+[185/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\protocol_types.cpp.obj
+[186/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ToolApp.cpp.obj
+[187/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ServerArgs.cpp.obj
+[188/306] Linking CXX static library src\lib\ipc\ipc.lib
+[189/306] Automatic RCC for res/Synergy.qrc
+[190/306] Linking CXX static library src\lib\net\net.lib
+[191/306] Linking CXX static library src\lib\platform\platform.lib
+[192/306] Linking CXX static library src\lib\server\server.lib
+[193/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\languages\LanguageManager.cpp.obj
+[194/306] Building RC object src\cmd\synergyd\CMakeFiles\synergyd.dir\__\__\version.rc.res
+[195/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ServerApp.cpp.obj
+[196/306] Building RC object src\cmd\synergyc\CMakeFiles\synergyc.dir\synergyc.rc.res
+[197/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\ServerTaskBarReceiver.cpp.obj
+[198/306] Building RC object src\cmd\synergyc\CMakeFiles\synergyc.dir\__\__\version.rc.res
+[199/306] Building RC object src\cmd\synergys\CMakeFiles\synergys.dir\synergys.rc.res
+[200/306] Building CXX object src\cmd\synergyd\CMakeFiles\synergyd.dir\synergyd.cpp.obj
+[201/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\__\__\__\ext\pugixml\src\pugixml.cpp.obj
+[202/306] Building RC object src\cmd\synergys\CMakeFiles\synergys.dir\__\__\version.rc.res
+[203/306] Building CXX object src\cmd\synergyc\CMakeFiles\synergyc.dir\synergyc.cpp.obj
+[204/306] Building CXX object src\cmd\synergyc\CMakeFiles\synergyc.dir\MSWindowsClientTaskBarReceiver.cpp.obj
+[205/306] Building CXX object src\cmd\synergys\CMakeFiles\synergys.dir\synergys.cpp.obj
+[206/306] Building CXX object src\cmd\synergys\CMakeFiles\synergys.dir\MSWindowsServerTaskBarReceiver.cpp.obj
+[207/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\win32\AppUtilWindows.cpp.obj
+[208/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\Action.cpp.obj
+[209/306] Building CXX object src\lib\synergy\CMakeFiles\synlib.dir\__\__\__\ext\WinToast\src\wintoastlib.cpp.obj
+[210/306] Linking CXX static library src\lib\synergy\synlib.lib
+[211/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\AboutDialog.cpp.obj
+[212/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\AddClientDialog.cpp.obj
+[213/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\DataDownloader.cpp.obj
+[214/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\CancelActivationDialog.cpp.obj
+[215/306] Building CXX object src\gui\CMakeFiles\synergy.dir\synergy_autogen\mocs_compilation.cpp.obj
+[216/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ActivationDialog.cpp.obj
+[217/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\FailedLoginDialog.cpp.obj
+[218/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ActionDialog.cpp.obj
+[219/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\Hotkey.cpp.obj
+[220/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\KeySequenceWidget.cpp.obj
+[221/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\QUtility.cpp.obj
+[222/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\HotkeyDialog.cpp.obj
+[223/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\KeySequence.cpp.obj
+[224/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\QSynergyApplication.cpp.obj
+[225/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ScreenSetupModel.cpp.obj
+[226/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ScreenSettingsDialog.cpp.obj
+[227/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ScreenSetupView.cpp.obj
+[228/306] Building RC object src\gui\CMakeFiles\synergy.dir\res\win\Synergy.rc.res
+[229/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\SetupWizard.cpp.obj
+[230/306] Building CXX object src\gui\CMakeFiles\synergy.dir\synergy_autogen\PNK5WDWK6L\qrc_Synergy.cpp.obj
+[231/306] Building RC object src\gui\CMakeFiles\synergy.dir\__\version.rc.res
+[232/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\MainWindow.cpp.obj
+[233/306] Linking CXX executable temp\bin\synergyd.exe
+[234/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ServerConfig.cpp.obj
+[235/306] Linking CXX executable temp\bin\synergyc.exe
+[236/306] Linking CXX executable temp\bin\synergys.exe
+[237/306] Building RC object src\cmd\syntool\CMakeFiles\syntool.dir\__\__\version.rc.res
+[238/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\gui\MainWindowTests.cpp.obj
+[239/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\SetupWizardBlocker.cpp.obj
+[240/306] Building CXX object src\cmd\syntool\CMakeFiles\syntool.dir\syntool.cpp.obj
+[241/306] Building CXX object src\test\CMakeFiles\gmock.dir\__\__\ext\googletest\googlemock\src\gmock-all.cc.obj
+[242/306] Linking CXX static library src\test\gmock.lib
+[243/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\TrashScreenWidget.cpp.obj
+[244/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\gui\core\CommandProcessTests.cpp.obj
+[245/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\net\NetworkTests.cpp.obj
+[246/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\ipc\IpcTests.cpp.obj
+[247/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\gui\core\CoreToolTests.cpp.obj
+[248/306] Building RC object src\test\integtests\CMakeFiles\integtests.dir\__\__\version.rc.res
+[249/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\gui\dotenv_tests.cpp.obj
+[250/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\platform\MSWindowsKeyStateTests.cpp.obj
+[251/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\__\shared\TestEventQueue.cpp.obj
+[252/306] Building CXX object src\test\CMakeFiles\gtest.dir\__\__\ext\googletest\googletest\src\gtest-all.cc.obj
+[253/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\main.cpp.obj
+[254/306] Linking CXX static library src\test\gtest.lib
+[255/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\__\shared\ExitTimeout.cpp.obj
+[256/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\main.cpp.obj
+[257/306] Building CXX object src\gui\CMakeFiles\synergy.dir\src\ServerConfigDialog.cpp.obj
+[258/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\base\UnicodeTests.cpp.obj
+[259/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\base\XBaseTests.cpp.obj
+[260/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\base\StringTests.cpp.obj
+[261/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\base\LogTests.cpp.obj
+[262/306] Building CXX object src\test\integtests\CMakeFiles\integtests.dir\platform\MSWindowsClipboardTests.cpp.obj
+[263/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\base\PathTests.cpp.obj
+[264/306] Linking CXX executable temp\bin\synergy.exe
+C:\Users\donald\synergy-core\build\temp\bin\synergy.exe 64 bit, release executable
+Adding in plugin type generic for module: Qt6Gui
+Adding in plugin type iconengines for module: Qt6Gui
+Adding Qt6Svg for qsvgicon.dll from plugin type: iconengines
+Adding in plugin type imageformats for module: Qt6Gui
+Adding in plugin type networkinformation for module: Qt6Network
+Adding in plugin type platforms for module: Qt6Gui
+Adding in plugin type styles for module: Qt6Widgets
+Adding in plugin type tls for module: Qt6Network
+Direct dependencies: Qt6Core Qt6Gui Qt6Network Qt6Widgets
+All dependencies   : Qt6Core Qt6Gui Qt6Network Qt6Widgets
+To be deployed     : Qt6Core Qt6Gui Qt6Network Qt6Svg Qt6Widgets
+Updating Qt6Core.dll.
+Updating Qt6Gui.dll.
+Updating Qt6Network.dll.
+Updating Qt6Svg.dll.
+Updating Qt6Widgets.dll.
+Updating opengl32sw.dll.
+Updating d3dcompiler_47.dll.
+Updating dxcompiler.dll.
+Updating dxil.dll.
+Updating vc_redist.x64.exe.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/generic.
+Updating qtuiotouchplugin.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/iconengines.
+Updating qsvgicon.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/imageformats.
+Updating qgif.dll.
+Updating qico.dll.
+Updating qjpeg.dll.
+Updating qsvg.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/networkinformation.
+Updating qnetworklistmanager.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/platforms.
+Updating qwindows.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/styles.
+Updating qmodernwindowsstyle.dll.
+Creating directory C:/Users/donald/synergy-core/build/temp/bin/tls.
+Updating qcertonlybackend.dll.
+Updating qopensslbackend.dll.
+Updating qschannelbackend.dll.
+Creating C:\Users\donald\synergy-core\build\temp\bin\translations...
+Creating qt_ar.qm...
+Creating qt_bg.qm...
+Creating qt_ca.qm...
+Creating qt_cs.qm...
+Creating qt_da.qm...
+Creating qt_de.qm...
+Creating qt_en.qm...
+Creating qt_es.qm...
+
+Creating qt_fa.qm...
+
+Creating qt_fi.qm...
+
+Creating qt_fr.qm...
+
+Creating qt_gd.qm...
+
+Creating qt_he.qm...
+
+Creating qt_hr.qm...
+
+Creating qt_hu.qm...
+
+Creating qt_it.qm...
+
+Creating qt_ja.qm...
+
+Creating qt_ka.qm...
+
+Creating qt_ko.qm...
+
+Creating qt_lv.qm...
+
+Creating qt_nl.qm...
+
+Creating qt_nn.qm...
+
+Creating qt_pl.qm...
+
+Creating qt_pt_BR.qm...
+
+Creating qt_ru.qm...
+
+Creating qt_sk.qm...
+
+Creating qt_tr.qm...
+
+Creating qt_uk.qm...
+
+Creating qt_zh_CN.qm...
+
+Creating qt_zh_TW.qm...
+
+[265/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\LoggerTests.cpp.obj
+[266/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\VersionCheckerTests.cpp.obj
+[267/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\dialogs\SettingsDialogTests.cpp.obj
+[268/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\byte_utils_tests.cpp.obj
+[269/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\config\ScreenTests.cpp.obj
+[270/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\config\ConfigScopesTests.cpp.obj
+[271/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\config\AppConfigTests.cpp.obj
+[272/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\license\LicenseHandlerTests.cpp.obj
+[273/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\core\ClientConnectionTests.cpp.obj
+[274/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\server\ConfigTests.cpp.obj
+[275/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\ipc\IpcSettingMessageTests.cpp.obj
+[276/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\ipc\QIpcClientTests.cpp.obj
+[277/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\ipc\IpcLogOutputterTests.cpp.obj
+[278/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\core\ServerConnectionTests.cpp.obj
+[279/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\core\CoreProcessTests.cpp.obj
+[280/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\main.cpp.obj
+[281/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\gui\license\license_notices_tests.cpp.obj
+[282/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\server\ServerTests.cpp.obj
+[283/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\shared\ProductTests.cpp.obj
+[284/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\shared\SerialKeyTypeTests.cpp.obj
+[285/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\shared\LicenseTests.cpp.obj
+[286/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ClipboardChunkTests.cpp.obj
+[287/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\DeprecatedArgsParsingTests.cpp.obj
+[288/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ClientArgsParsingTests.cpp.obj
+[289/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ClipboardTests.cpp.obj
+[290/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ArgParserTests.cpp.obj
+[291/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\IKeyStateTests.cpp.obj
+[292/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\X11LayoutParserTests.cpp.obj
+[293/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\KeyMapTests.cpp.obj
+[294/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\GenericArgsParsingTests.cpp.obj
+[295/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\__\shared\ExitTimeout.cpp.obj
+[296/306] Building RC object src\test\unittests\CMakeFiles\unittests.dir\__\__\version.rc.res
+[297/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ProtocolUtilTests.cpp.obj
+[298/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\__\shared\TestEventQueue.cpp.obj
+[299/306] Linking CXX executable bin\syntool.exe
+[300/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\languages\LanguageManagerTests.cpp.obj
+[301/306] Linking CXX executable bin\integtests.exe
+[302/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ServerAppTests.cpp.obj
+[303/306] Copying files to bin dir
+[304/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\ServerArgsParsingTests.cpp.obj
+[305/306] Building CXX object src\test\unittests\CMakeFiles\unittests.dir\synergy\KeyStateTests.cpp.obj
+[306/306] Linking CXX executable bin\unittests.exe

@@ -1,0 +1,81 @@
+
+Host Name:                     THELETOS
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26120 N/A Build 26120
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              donald.guy@live.com
+Registered Organization:       
+Product ID:                    00330-54059-91332-AAOEM
+Original Install Date:         4/19/2024, 1:54:47 PM
+System Boot Time:              8/20/2024, 2:54:11 PM
+System Manufacturer:           Micro-Star International Co., Ltd.
+System Model:                  MS-7C79
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 167 Stepping 1 GenuineIntel ~3504 Mhz
+BIOS Version:                  American Megatrends Inc. 1.D0, 8/27/2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume3
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-07:00) Mountain Time (US & Canada)
+Total Physical Memory:         65,388 MB
+Available Physical Memory:     55,016 MB
+Virtual Memory: Max Size:      75,116 MB
+Virtual Memory: Available:     52,472 MB
+Virtual Memory: In Use:        22,644 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\THELETOS
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5042098
+                               [02]: KB5037898
+                               [03]: KB5041872
+                               [04]: KB5041875
+Network Card(s):               6 NIC(s) Installed.
+                               [01]: TAP-Windows Adapter V9
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [02]: Hyper-V Virtual Ethernet Adapter
+                                     Connection Name: vEthernet (Bridge)
+                                     Status:          Media disconnected
+                               [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                     Connection Name: Wi-Fi
+                                     Status:          Media disconnected
+                               [04]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [05]: Realtek PCIe 2.5GbE Family Controller
+                                     Connection Name: Ethernet 4
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 10.8.3.1
+                                     [02]: fe80::52fb:8b42:b63b:b809
+                               [06]: Microsoft Wi-Fi Direct Virtual Adapter
+                                     Connection Name: Local Area Connection* 2
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.137.1
+                                     [02]: fe80::e23f:8aa8:1263:17c8
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
